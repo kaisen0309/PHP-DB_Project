@@ -9,7 +9,8 @@
 
 
 # **示意圖**
-![示意圖](https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/php2.jpg)
-![示意圖](https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/php3.jpg)
+  <img src="https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/php3.png" alt="主題圖" width="700" />
+  <img src="https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/php2.png" alt="訂單圖" width="300" />
+
 
 
