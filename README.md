@@ -7,5 +7,6 @@
 選擇遊戲並預約遊玩時段；在管理者端則多設計了訂單管理的介面，讓管理
 者可以直接透過前端介面操作，來處理後端資料庫的資料。 
 
-![GITHUB]( 圖片網址 "https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/1.jpg")
+![示意圖](https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/1.jpg)
+
 
