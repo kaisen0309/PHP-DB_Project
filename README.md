@@ -1,4 +1,4 @@
-# <b>密室逃脫預約系統</b>
+# **密室逃脫預約系統**
 
 此專題由五人小組共同開發，使用 HTML/CSS、PHP 以及 SQL 語法進
 行前後端實作，並以phpMyAdmin 架設資料庫。我們設計了一個密室逃脫
@@ -7,6 +7,9 @@
 選擇遊戲並預約遊玩時段；在管理者端則多設計了訂單管理的介面，讓管理
 者可以直接透過前端介面操作，來處理後端資料庫的資料。 
 
-![示意圖](https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/1.jpg)
+
+# **示意圖**
+![示意圖](https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/php2.jpg)
+![示意圖](https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/php3.jpg)
 
 
